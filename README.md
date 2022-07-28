@@ -2,7 +2,7 @@
 Big Data solution for chosen Social Media-themed topic as part of SENG8080-Case-Studies course
 
 ![Dashboard2](images/README/dashboard2.png)
-![Dashboard3](images/README/dashboard3.png)
+![Dashboard4](images/README/dashboard4.png)
 ![Dashboard5](images/README/dashboard5.png)
 
 # Dataset
