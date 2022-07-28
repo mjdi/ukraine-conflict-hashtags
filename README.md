@@ -1,6 +1,10 @@
 # ukraine-conflict-hashtags
 Big Data solution for chosen Social Media-themed topic as part of SENG8080-Case-Studies course
 
+![Dashboard2](images/README/dashboard2.png)
+![Dashboard3](images/README/dashboard3.png)
+![Dashboard5](images/README/dashboard5.png)
+
 # Dataset
 
 Version 119 of
@@ -52,10 +56,6 @@ https://www.youtube.com/watch?v=h1sAzPojKMg
 
 To create a new Jupyter Notebook in VS Code, press Ctrl-Shift-P and type `New Notebook`.
 
+# Data Visualization
 
-# Geocoding
-
-There are two options for geocoding: Google Maps API (paid) and OpenStreetMap (free).
-
-https://www.natasshaselvaraj.com/a-step-by-step-guide-on-geocoding-in-python/
-
+Performed in Tableau (see .twbx file)
