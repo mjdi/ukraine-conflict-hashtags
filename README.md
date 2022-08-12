@@ -1,6 +1,12 @@
 # ukraine-conflict-hashtags
 Big Data solution for chosen Social Media-themed topic as part of SENG8080-Case-Studies course
 
+[Link to presentation slides](https://docs.google.com/presentation/d/1456x-91hND8VeD5_5GWbU9KL4s-SjxixLDq7NV9ZlE0/edit?usp=sharing)
+
+[Link to video of presentation on OneDrive](https://1drv.ms/v/s!AryRW4JwdSQVqKFPS72_QelctbqLBA?e=WqGvvF)
+
+
+
 ![Dashboard2](images/README/dashboard2.png)
 ![Dashboard4](images/README/dashboard4.png)
 ![Dashboard5](images/README/dashboard5.png)
